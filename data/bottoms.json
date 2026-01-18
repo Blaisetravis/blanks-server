@@ -1,0 +1,968 @@
+{
+  "category": "bottoms",
+  "categoryName": "Men's Bottoms",
+  "products": [
+    {
+      "style": "BE443",
+      "description": "Birds Eye Mesh Long Short",
+      "brand": "LA Apparel",
+      "casePack": 72,
+      "image": "/images/bottoms/BE443.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 16.4,
+          "dozen": 16.75,
+          "piece": 19
+        }
+      ],
+      "colors": [
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/bottoms/colors/BE443-blk.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/bottoms/colors/BE443-wht.png"
+        }
+      ]
+    },
+    {
+      "style": "HF45GD",
+      "description": "Heavy Fleece Extra Wide Mens Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF45GD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 31.23,
+          "dozen": 31.58,
+          "piece": 33.83
+        },
+        {
+          "sizes": "2XL",
+          "case": 33.23,
+          "dozen": 33.58,
+          "piece": 35.83
+        }
+      ],
+      "colors": [
+        {
+          "code": "bkedg",
+          "name": "Black Edge",
+          "image": "/images/bottoms/colors/HF45GD-bkedg.png"
+        },
+        {
+          "code": "choc",
+          "name": "Chocolate",
+          "image": "/images/bottoms/colors/HF45GD-choc.png"
+        },
+        {
+          "code": "nvy",
+          "name": "Navy",
+          "image": "/images/bottoms/colors/HF45GD-nvy.png"
+        },
+        {
+          "code": "vblk",
+          "name": "Vintage Black",
+          "image": "/images/bottoms/colors/HF45GD-vblk.png"
+        }
+      ]
+    },
+    {
+      "style": "SF1042",
+      "description": "12oz. Scour Fleece Sweatshort",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/SF1042.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 21.26,
+          "dozen": 21.61,
+          "piece": 23.86
+        },
+        {
+          "sizes": "2XL",
+          "case": 23.26,
+          "dozen": 23.61,
+          "piece": 25.86
+        }
+      ],
+      "colors": [
+        {
+          "code": "sco",
+          "name": "Scour",
+          "image": "/images/bottoms/colors/SF1042-sco.png"
+        }
+      ]
+    },
+    {
+      "style": "TX402GD",
+      "description": "Heavy Thermal Garment Dye Shorts",
+      "brand": "LA Apparel",
+      "casePack": 36,
+      "image": "/images/bottoms/TX402GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 15.25,
+          "dozen": 15.6,
+          "piece": 17.85
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/TX402GD.png"
+        }
+      ]
+    },
+    {
+      "style": "RJC405GD",
+      "description": "Unisex Cotton Poplin Wide Leg Pant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/RJC405GD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 25.65,
+          "dozen": 26,
+          "piece": 28.25
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/RJC405GD.png"
+        }
+      ]
+    },
+    {
+      "style": "HF-442",
+      "description": "Heavy Fleece Extra Wide Mens Shorts",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF-442.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 24.34,
+          "dozen": 24.69,
+          "piece": 26.94
+        },
+        {
+          "sizes": "2XL",
+          "case": 26.34,
+          "dozen": 26.69,
+          "piece": 28.94
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF-442.png"
+        }
+      ]
+    },
+    {
+      "style": "RTWL405GD",
+      "description": "Prison Pant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/RTWL405GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 23.85,
+          "dozen": 21.6,
+          "piece": 21.25
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/RTWL405GD.png"
+        }
+      ]
+    },
+    {
+      "style": "TRF42",
+      "description": "Triblend Gabardine Fleece Extra Wide Mens Shorts",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/TRF42.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 23.97,
+          "dozen": 24.32,
+          "piece": 26.57
+        },
+        {
+          "sizes": "2XL",
+          "case": 25.97,
+          "dozen": 26.32,
+          "piece": 28.57
+        }
+      ],
+      "colors": [
+        {
+          "code": "hgrey",
+          "name": "Heather Grey",
+          "image": "/images/bottoms/colors/TRF42-hgrey.png"
+        }
+      ]
+    },
+    {
+      "style": "HF05GD",
+      "description": "Garment Dye Heavy Fleece Straight Leg Sweatpant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF05GD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 35.57,
+          "dozen": 35.92,
+          "piece": 38.17
+        },
+        {
+          "sizes": "2XL",
+          "case": 37.57,
+          "dozen": 37.92,
+          "piece": 40.17
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF05GD.png"
+        }
+      ]
+    },
+    {
+      "style": "MWF1045",
+      "description": "Open Bottom Sweatpant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/MWF1045.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 27.05,
+          "dozen": 27.4,
+          "piece": 29.65
+        },
+        {
+          "sizes": "2XL",
+          "case": 29.05,
+          "dozen": 29.4,
+          "piece": 31.65
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/MWF1045.png"
+        }
+      ]
+    },
+    {
+      "style": "1205WGD",
+      "description": "Mens Wide Leg Jersey Pant",
+      "brand": "LA Apparel",
+      "casePack": 48,
+      "image": "/images/bottoms/1205WGD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 20.5,
+          "dozen": 20.85,
+          "piece": 23.1
+        },
+        {
+          "sizes": "2XL",
+          "case": 21.75,
+          "dozen": 22.1,
+          "piece": 24.35
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/1205WGD.png"
+        }
+      ]
+    },
+    {
+      "style": "RCF445",
+      "description": "Cotton Flannel Lounge Pant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/RCF445.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 21.25,
+          "dozen": 21.6,
+          "piece": 23.85
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/RCF445.png"
+        }
+      ]
+    },
+    {
+      "style": "1241GD",
+      "description": "Mid-Length Heavy Jersey Shorts",
+      "brand": "LA Apparel",
+      "casePack": 60,
+      "image": "/images/bottoms/1241GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 15.05,
+          "dozen": 15.4,
+          "piece": 17.65
+        },
+        {
+          "sizes": "2XL",
+          "case": 16.3,
+          "dozen": 16.65,
+          "piece": 18.9
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/1241GD.png"
+        }
+      ]
+    },
+    {
+      "style": "1242GD",
+      "description": "8.5 oz Heavy Jersey Gym Shorts",
+      "brand": "LA Apparel",
+      "casePack": 60,
+      "image": "/images/bottoms/1242GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 15.05,
+          "dozen": 15.4,
+          "piece": 17.65
+        },
+        {
+          "sizes": "2XL",
+          "case": 16.3,
+          "dozen": 16.65,
+          "piece": 18.9
+        },
+        {
+          "sizes": "3XL",
+          "case": 17.55,
+          "dozen": 17.9,
+          "piece": 20.15
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/1242GD.png"
+        }
+      ]
+    },
+    {
+      "style": "44015",
+      "description": "Men's Baby Rib Brief",
+      "brand": "LA Apparel",
+      "casePack": 144,
+      "image": "/images/bottoms/44015.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 6.32,
+          "dozen": 6.67,
+          "piece": 8.92
+        }
+      ],
+      "colors": [
+        {
+          "code": "bpwht",
+          "name": "Bpwht",
+          "image": "/images/bottoms/colors/44015-bpwht.png"
+        }
+      ]
+    },
+    {
+      "style": "44043",
+      "description": "Men's Baby Rib Boxer Brief",
+      "brand": "LA Apparel",
+      "casePack": 120,
+      "image": "/images/bottoms/44043.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 8.42,
+          "dozen": 8.77,
+          "piece": 11.02
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/44043.png"
+        }
+      ]
+    },
+    {
+      "style": "HD442",
+      "description": "Heavy Dazzle Athletic Shorts",
+      "brand": "LA Apparel",
+      "casePack": 72,
+      "image": "/images/bottoms/HD442.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 10.86,
+          "dozen": 11.21,
+          "piece": 13.46
+        },
+        {
+          "sizes": "2XL",
+          "case": 11.86,
+          "dozen": 12.21,
+          "piece": 14.46
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HD442.png"
+        }
+      ]
+    },
+    {
+      "style": "HF-02",
+      "description": "14 oz Heavy Fleece Mid Short",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF-02.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 15.63,
+          "dozen": 15.98,
+          "piece": 18.23
+        },
+        {
+          "sizes": "2XL",
+          "case": 17.63,
+          "dozen": 17.98,
+          "piece": 20.23
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF-02.png"
+        }
+      ]
+    },
+    {
+      "style": "HF-04",
+      "description": "14 oz Heavy Fleece Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF-04.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 30.3,
+          "dozen": 30.65,
+          "piece": 32.9
+        },
+        {
+          "sizes": "2XL",
+          "case": 32.3,
+          "dozen": 32.65,
+          "piece": 34.9
+        },
+        {
+          "sizes": "3XL",
+          "case": 34.3,
+          "dozen": 34.65,
+          "piece": 36.9
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF-04.png"
+        }
+      ]
+    },
+    {
+      "style": "HF-05",
+      "description": "14 oz Heavy Fleece Straight Leg Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF-05.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 30.3,
+          "dozen": 30.65,
+          "piece": 32.9
+        },
+        {
+          "sizes": "2XL",
+          "case": 32.3,
+          "dozen": 32.65,
+          "piece": 34.9
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF-05.png"
+        }
+      ]
+    },
+    {
+      "style": "HF02GD",
+      "description": "14 oz Garment Dye Heavy Fleece Mid-Length Shorts",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF02GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 16.58,
+          "dozen": 16.93,
+          "piece": 19.18
+        },
+        {
+          "sizes": "2XL",
+          "case": 18.58,
+          "dozen": 18.93,
+          "piece": 21.18
+        }
+      ],
+      "colors": [
+        {
+          "code": "kha",
+          "name": "Khaki",
+          "image": "/images/bottoms/colors/HF02GD-kha.png"
+        }
+      ]
+    },
+    {
+      "style": "HF04DD",
+      "description": "14 oz Fleece Sweat Pant Drip Dye",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/bottoms/HF04DD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 38.5,
+          "dozen": 38.85,
+          "piece": 41.1
+        },
+        {
+          "sizes": "2XL",
+          "case": 40.5,
+          "dozen": 40.85,
+          "piece": 43.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF04DD.png"
+        }
+      ]
+    },
+    {
+      "style": "HF04GD",
+      "description": "14 oz Garment Dye Heavy Fleece Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/HF04GD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 35.57,
+          "dozen": 35.92,
+          "piece": 38.17
+        },
+        {
+          "sizes": "2XL",
+          "case": 37.57,
+          "dozen": 37.92,
+          "piece": 40.17
+        },
+        {
+          "sizes": "3XL",
+          "case": 39.57,
+          "dozen": 39.92,
+          "piece": 42.17
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/HF04GD.png"
+        }
+      ]
+    },
+    {
+      "style": "MT42",
+      "description": "8 oz Mock Twist Gym Short",
+      "brand": "LA Apparel",
+      "casePack": 60,
+      "image": "/images/bottoms/MT42.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 14.43,
+          "dozen": 14.78,
+          "piece": 17.03
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/MT42.png"
+        }
+      ]
+    },
+    {
+      "style": "MWF02",
+      "description": "Mid Weight Fleece Mans Shorts",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/MWF02.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 15.75,
+          "dozen": 16.1,
+          "piece": 18.35
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/MWF02.png"
+        }
+      ]
+    },
+    {
+      "style": "MWF1044",
+      "description": "10 oz Mid-Weight Poly Cotton Fleece Wide Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/MWF1044.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 27.05,
+          "dozen": 27.4,
+          "piece": 29.65
+        },
+        {
+          "sizes": "2XL",
+          "case": 29.05,
+          "dozen": 29.4,
+          "piece": 31.65
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/MWF1044.png"
+        }
+      ]
+    },
+    {
+      "style": "PF404",
+      "description": "Polar Fleece Sweatpant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/PF404.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 18,
+          "dozen": 18.35,
+          "piece": 20.16
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/PF404.png"
+        }
+      ]
+    },
+    {
+      "style": "PLU04GD",
+      "description": "16 oz Garment Dye Plush Fleece Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/PLU04GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 33.15,
+          "dozen": 33.5,
+          "piece": 35.75
+        },
+        {
+          "sizes": "2XL",
+          "case": 35.15,
+          "dozen": 35.5,
+          "piece": 37.75
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/PLU04GD.png"
+        }
+      ]
+    },
+    {
+      "style": "PPQ42",
+      "description": "Poly Pique Mesh Mid-Length Shorts",
+      "brand": "LA Apparel",
+      "casePack": 72,
+      "image": "/images/bottoms/PPQ42.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 16.5,
+          "dozen": 16.85,
+          "piece": 19.1
+        },
+        {
+          "sizes": "2XL",
+          "case": 18.5,
+          "dozen": 18.85,
+          "piece": 21.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/PPQ42.png"
+        }
+      ]
+    },
+    {
+      "style": "PRM442",
+      "description": "Pro Mesh Mid-Length Shorts",
+      "brand": "LA Apparel",
+      "casePack": 48,
+      "image": "/images/bottoms/PRM442.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 13.68,
+          "dozen": 14.03,
+          "piece": 16.28
+        },
+        {
+          "sizes": "2XL",
+          "case": 15.68,
+          "dozen": 16.03,
+          "piece": 18.28
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/PRM442.png"
+        }
+      ]
+    },
+    {
+      "style": "PRM443",
+      "description": "Pro Mesh Long Shorts",
+      "brand": "LA Apparel",
+      "casePack": 72,
+      "image": "/images/bottoms/PRM443.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 14.75,
+          "dozen": 15.1,
+          "piece": 17.35
+        },
+        {
+          "sizes": "2XL",
+          "case": 16.75,
+          "dozen": 17.1,
+          "piece": 19.35
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/PRM443.png"
+        }
+      ]
+    },
+    {
+      "style": "RNF405",
+      "description": "Nylon Taffeta Lined Track Pants",
+      "brand": "LA Apparel",
+      "casePack": 36,
+      "image": "/images/bottoms/RNF405.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 19.5,
+          "dozen": 19.85,
+          "piece": 22.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/RNF405.png"
+        }
+      ]
+    },
+    {
+      "style": "RNF412",
+      "description": "Nylon Taffeta Wide Shorts",
+      "brand": "LA Apparel",
+      "casePack": 48,
+      "image": "/images/bottoms/RNF412.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 9.5,
+          "dozen": 9.85,
+          "piece": 12.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/RNF412.png"
+        }
+      ]
+    },
+    {
+      "style": "RNF445",
+      "description": "Lightweight Nylon Taffeta Wide Leg Pants",
+      "brand": "LA Apparel",
+      "casePack": 36,
+      "image": "/images/bottoms/RNF445.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 18,
+          "dozen": 18.35,
+          "piece": 20.6
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/RNF445.png"
+        }
+      ]
+    },
+    {
+      "style": "SF1044",
+      "description": "12 oz Mid-Weight Fleece Wide Sweatpants",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/SF1044.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 30.65,
+          "dozen": 31,
+          "piece": 33.25
+        },
+        {
+          "sizes": "2XL",
+          "case": 32.65,
+          "dozen": 33,
+          "piece": 35.25
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/SF1044.png"
+        }
+      ]
+    },
+    {
+      "style": "TRF05",
+      "description": "12oz Gabardine Triblend Fleece Open Bottom Pant",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/bottoms/TRF05.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 28,
+          "dozen": 28.35,
+          "piece": 30.6
+        }
+      ],
+      "colors": [
+        {
+          "code": "default",
+          "name": "Default",
+          "image": "/images/bottoms/TRF05.png"
+        }
+      ]
+    }
+  ]
+}
