@@ -1,0 +1,118 @@
+{
+  "category": "zipups",
+  "categoryName": "Zip-Ups",
+  "products": [
+    {
+      "style": "MWF10",
+      "description": "Mid-Weight Crop Zip Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/zipups/MWF10.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 34,
+          "dozen": 34.35,
+          "piece": 36.6
+        },
+        {
+          "sizes": "2XL",
+          "case": 36,
+          "dozen": 36.35,
+          "piece": 38.6
+        }
+      ],
+      "colors": [
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/zipups/colors/MWF10-blk.png"
+        },
+        {
+          "code": "crm",
+          "name": "Creme",
+          "image": "/images/zipups/colors/MWF10-crm.png"
+        },
+        {
+          "code": "dlb",
+          "name": "Dolphin Blue",
+          "image": "/images/zipups/colors/MWF10-dlb.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/zipups/colors/MWF10-wht.png"
+        }
+      ]
+    },
+    {
+      "style": "RJC410GD",
+      "description": "Cotton Poplin Zip-Up Hooded Jacket",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/zipups/RJC410GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 46.7,
+          "dozen": 47.05,
+          "piece": 49.3
+        }
+      ],
+      "colors": [
+        {
+          "code": "arm",
+          "name": "Army",
+          "image": "/images/zipups/colors/RJC410GD-arm.png"
+        },
+        {
+          "code": "dlb",
+          "name": "Dolphin Blue",
+          "image": "/images/zipups/colors/RJC410GD-dlb.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/zipups/colors/RJC410GD-wht.png"
+        }
+      ]
+    },
+    {
+      "style": "ALP10GD",
+      "description": "Thermal Lined Crop Zip Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/zipups/ALP10GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 55.77,
+          "dozen": 56.12,
+          "piece": 58.37
+        }
+      ],
+      "colors": [
+        {
+          "code": "bkedg",
+          "name": "Black Edge",
+          "image": "/images/zipups/colors/ALP10GD-bkedg.png"
+        },
+        {
+          "code": "crm",
+          "name": "Creme",
+          "image": "/images/zipups/colors/ALP10GD-crm.png"
+        },
+        {
+          "code": "dkcho",
+          "name": "Dark Chocolate",
+          "image": "/images/zipups/colors/ALP10GD-dkcho.png"
+        },
+        {
+          "code": "nvy",
+          "name": "Navy",
+          "image": "/images/zipups/colors/ALP10GD-nvy.png"
+        }
+      ]
+    }
+  ]
+}
