@@ -1,0 +1,634 @@
+{
+  "category": "hoodies",
+  "categoryName": "Men's Hoodies",
+  "products": [
+    {
+      "style": "ALP49GD",
+      "description": "Double Layer Alpine Fleece Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/ALP49GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 47.88,
+          "dozen": 48.23,
+          "piece": 50.48
+        }
+      ],
+      "colors": [
+        {
+          "code": "bkedg",
+          "name": "Black Edge",
+          "image": "/images/hoodies/ALP49GD.png"
+        },
+        {
+          "code": "brorn",
+          "name": "Brorn",
+          "image": "/images/hoodies/ALP49GD.png"
+        },
+        {
+          "code": "dkcho",
+          "name": "Dkcho",
+          "image": "/images/hoodies/ALP49GD.png"
+        }
+      ]
+    },
+    {
+      "style": "HF-09",
+      "description": "14 oz Heavy Fleece Hooded Pullover",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/HF-09.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 31.85,
+          "dozen": 32.2,
+          "piece": 34.45
+        },
+        {
+          "sizes": "2XL",
+          "case": 33.85,
+          "dozen": 34.2,
+          "piece": 36.45
+        },
+        {
+          "sizes": "3XL",
+          "case": 35.85,
+          "dozen": 36.2,
+          "piece": 38.45
+        }
+      ],
+      "colors": [
+        {
+          "code": "ash",
+          "name": "Ash",
+          "image": "/images/hoodies/HF-09.png"
+        },
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/HF-09.png"
+        },
+        {
+          "code": "nvy",
+          "name": "Navy",
+          "image": "/images/hoodies/HF-09.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/hoodies/HF-09.png"
+        }
+      ]
+    },
+    {
+      "style": "HF-16",
+      "description": "14 oz Heavy Fleece Cropped Zip Up",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/HF-16.png",
+      "pricing": [
+        {
+          "sizes": "S/M-L/XL",
+          "case": 29.52,
+          "dozen": 29.87,
+          "piece": 32.12
+        }
+      ],
+      "colors": [
+        {
+          "code": "ash",
+          "name": "Ash",
+          "image": "/images/hoodies/HF-16.png"
+        },
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/HF-16.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/hoodies/HF-16.png"
+        }
+      ]
+    },
+    {
+      "style": "HF09GD",
+      "description": "14 oz Garment Dye Heavy Fleece Hooded Pullover",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/HF09GD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 36.05,
+          "dozen": 36.4,
+          "piece": 38.65
+        },
+        {
+          "sizes": "2XL",
+          "case": 38.05,
+          "dozen": 38.4,
+          "piece": 40.65
+        },
+        {
+          "sizes": "3XL",
+          "case": 40.05,
+          "dozen": 40.4,
+          "piece": 42.65
+        }
+      ],
+      "colors": [
+        {
+          "code": "arm",
+          "name": "Army",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "bge",
+          "name": "Beige",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "bkedg",
+          "name": "Black Edge",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "bra",
+          "name": "Bra",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "brorn",
+          "name": "Brorn",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "cblu",
+          "name": "Cement Blue",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "choc",
+          "name": "Chocolate",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "clve",
+          "name": "Clove",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "cmnt",
+          "name": "Cement",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "crm",
+          "name": "Cream",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "dlb",
+          "name": "Dusty Light Blue",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "dred",
+          "name": "Dred",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "ivy",
+          "name": "Ivy",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "mshrm",
+          "name": "Mushroom",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "nvy",
+          "name": "Navy",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "ofb",
+          "name": "Ofb",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "ptli",
+          "name": "Petal",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "rqtz",
+          "name": "Rose Quartz",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "sag",
+          "name": "Sage",
+          "image": "/images/hoodies/HF09GD.png"
+        },
+        {
+          "code": "vblk",
+          "name": "Vintage Black",
+          "image": "/images/hoodies/HF09GD.png"
+        }
+      ]
+    },
+    {
+      "style": "HF09MW",
+      "description": "14 oz Garment Dye Heavy Fleece Hooded Pullover (Mineral Wash)",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/HF09MW.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 39.17,
+          "dozen": 39.52,
+          "piece": 41.77
+        },
+        {
+          "sizes": "2XL",
+          "case": 41.17,
+          "dozen": 41.52,
+          "piece": 43.77
+        }
+      ],
+      "colors": [
+        {
+          "code": "arc",
+          "name": "Arctic",
+          "image": "/images/hoodies/HF09MW.png"
+        },
+        {
+          "code": "carbk",
+          "name": "Carbk",
+          "image": "/images/hoodies/HF09MW.png"
+        },
+        {
+          "code": "cocoa",
+          "name": "Cocoa",
+          "image": "/images/hoodies/HF09MW.png"
+        },
+        {
+          "code": "icegy",
+          "name": "Icegy",
+          "image": "/images/hoodies/HF09MW.png"
+        },
+        {
+          "code": "ind",
+          "name": "Indigo",
+          "image": "/images/hoodies/HF09MW.png"
+        },
+        {
+          "code": "limst",
+          "name": "Limst",
+          "image": "/images/hoodies/HF09MW.png"
+        },
+        {
+          "code": "matca",
+          "name": "Matca",
+          "image": "/images/hoodies/HF09MW.png"
+        }
+      ]
+    },
+    {
+      "style": "HF09DD",
+      "description": "14 oz Fleece Hooded Pullover Drip Dye",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/HF09DD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 39.6,
+          "dozen": 39.95,
+          "piece": 42.2
+        },
+        {
+          "sizes": "2XL",
+          "case": 41.1,
+          "dozen": 41.45,
+          "piece": 43.7
+        }
+      ],
+      "colors": [
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/HF09DD.png"
+        },
+        {
+          "code": "olv",
+          "name": "Olive",
+          "image": "/images/hoodies/HF09DD.png"
+        }
+      ]
+    },
+    {
+      "style": "HF10DD",
+      "description": "14 oz Fleece Full Zip Drip Dye",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/HF10DD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 43,
+          "dozen": 43.35,
+          "piece": 45.6
+        },
+        {
+          "sizes": "2XL",
+          "case": 45.5,
+          "dozen": 45.85,
+          "piece": 48.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/HF10DD.png"
+        },
+        {
+          "code": "olv",
+          "name": "Olive",
+          "image": "/images/hoodies/HF10DD.png"
+        }
+      ]
+    },
+    {
+      "style": "MWF1049",
+      "description": "10 oz Mid-Weight Poly Cotton Fleece Wide Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 24,
+      "image": "/images/hoodies/MWF1049.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 28.1,
+          "dozen": 28.45,
+          "piece": 30.7
+        },
+        {
+          "sizes": "2XL",
+          "case": 30.1,
+          "dozen": 30.45,
+          "piece": 32.7
+        }
+      ],
+      "colors": [
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/MWF1049.png"
+        },
+        {
+          "code": "crm",
+          "name": "Cream",
+          "image": "/images/hoodies/MWF1049.png"
+        },
+        {
+          "code": "dlb",
+          "name": "Dusty Light Blue",
+          "image": "/images/hoodies/MWF1049.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/hoodies/MWF1049.png"
+        }
+      ]
+    },
+    {
+      "style": "MWT09GD",
+      "description": "9 oz Garment Dye Mid-Weight French Terry Pullover Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 36,
+      "image": "/images/hoodies/MWT09GD.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 23.8,
+          "dozen": 24.15,
+          "piece": 26.4
+        },
+        {
+          "sizes": "2XL",
+          "case": 25.8,
+          "dozen": 26.15,
+          "piece": 28.4
+        }
+      ],
+      "colors": [
+        {
+          "code": "algr",
+          "name": "Algr",
+          "image": "/images/hoodies/MWT09GD.png"
+        },
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/MWT09GD.png"
+        },
+        {
+          "code": "clblu",
+          "name": "Clblu",
+          "image": "/images/hoodies/MWT09GD.png"
+        },
+        {
+          "code": "cml",
+          "name": "Camel",
+          "image": "/images/hoodies/MWT09GD.png"
+        },
+        {
+          "code": "cmnt",
+          "name": "Cement",
+          "image": "/images/hoodies/MWT09GD.png"
+        },
+        {
+          "code": "oros",
+          "name": "Oros",
+          "image": "/images/hoodies/MWT09GD.png"
+        },
+        {
+          "code": "wht",
+          "name": "White",
+          "image": "/images/hoodies/MWT09GD.png"
+        }
+      ]
+    },
+    {
+      "style": "PF409",
+      "description": "Polar Fleece No Pocket Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/PF409.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 19.5,
+          "dozen": 19.85,
+          "piece": 22.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "blk",
+          "name": "Black",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "brdx",
+          "name": "Bordeaux",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "brn",
+          "name": "Brown",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "brred",
+          "name": "Brred",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "for",
+          "name": "Forest",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "nvy",
+          "name": "Navy",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "pur",
+          "name": "Purple",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "red",
+          "name": "Red",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "ryl",
+          "name": "Royal",
+          "image": "/images/hoodies/PF409.png"
+        },
+        {
+          "code": "tau",
+          "name": "Taupe",
+          "image": "/images/hoodies/PF409.png"
+        }
+      ]
+    },
+    {
+      "style": "PLU09GD",
+      "description": "16 oz Garment Dye Plush Fleece Hooded Pullover",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/PLU09GD.png",
+      "pricing": [
+        {
+          "sizes": "S-XL",
+          "case": 42.5,
+          "dozen": 42.85,
+          "piece": 45.1
+        },
+        {
+          "sizes": "2XL",
+          "case": 44.5,
+          "dozen": 44.85,
+          "piece": 47.1
+        }
+      ],
+      "colors": [
+        {
+          "code": "bkedg",
+          "name": "Black Edge",
+          "image": "/images/hoodies/PLU09GD.png"
+        },
+        {
+          "code": "crm",
+          "name": "Cream",
+          "image": "/images/hoodies/PLU09GD.png"
+        },
+        {
+          "code": "dlb",
+          "name": "Dusty Light Blue",
+          "image": "/images/hoodies/PLU09GD.png"
+        }
+      ]
+    },
+    {
+      "style": "SF1049",
+      "description": "12 oz Mid-Weight Fleece Wide Hoodie",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/SF1049.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 35.23,
+          "dozen": 35.58,
+          "piece": 37.83
+        },
+        {
+          "sizes": "2XL",
+          "case": 37.23,
+          "dozen": 37.58,
+          "piece": 39.83
+        }
+      ],
+      "colors": [
+        {
+          "code": "sco",
+          "name": "Scour",
+          "image": "/images/hoodies/SF1049.png"
+        }
+      ]
+    },
+    {
+      "style": "TRF09",
+      "description": "12oz Triblend Fleece Hooded Pullover",
+      "brand": "LA Apparel",
+      "casePack": 18,
+      "image": "/images/hoodies/TRF09.png",
+      "pricing": [
+        {
+          "sizes": "XS-XL",
+          "case": 29,
+          "dozen": 29.35,
+          "piece": 31.6
+        },
+        {
+          "sizes": "2XL",
+          "case": 31,
+          "dozen": 31.35,
+          "piece": 33.6
+        }
+      ],
+      "colors": [
+        {
+          "code": "hgry",
+          "name": "Heather Grey",
+          "image": "/images/hoodies/TRF09.png"
+        }
+      ]
+    }
+  ]
+}

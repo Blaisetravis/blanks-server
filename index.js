@@ -15,13 +15,15 @@ app.use('/images', express.static(path.join(__dirname, 'public/images')));
 
 // Load product data
 const bottoms = require('./data/bottoms.json');
+const hoodies = require('./data/hoodies.json');
 
 // API Routes
 
 // Get all products
 app.get('/api/products', (req, res) => {
   res.json({
-    bottoms
+    bottoms,
+    hoodies
   });
 });
 
@@ -34,6 +36,25 @@ app.get('/api/products/bottoms', (req, res) => {
 app.get('/api/products/bottoms/:style', (req, res) => {
   const { style } = req.params;
   const product = bottoms.products.find(p =>
+    p.style.toUpperCase() === style.toUpperCase()
+  );
+
+  if (!product) {
+    return res.status(404).json({ error: 'Product not found' });
+  }
+
+  res.json(product);
+});
+
+// Get hoodies
+app.get('/api/products/hoodies', (req, res) => {
+  res.json(hoodies);
+});
+
+// Get specific hoodie by style code
+app.get('/api/products/hoodies/:style', (req, res) => {
+  const { style } = req.params;
+  const product = hoodies.products.find(p =>
     p.style.toUpperCase() === style.toUpperCase()
   );
 
