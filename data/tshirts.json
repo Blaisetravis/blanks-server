@@ -7,7 +7,7 @@
       "description": "8.5 oz S/S Garment Dye T-Shirt",
       "brand": "LA Apparel",
       "casePack": 48,
-      "image": "/images/tshirts/1201WGD.png",
+      "image": "/images/tshirts/1201WGD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -26,27 +26,27 @@
         {
           "code": "bkedg",
           "name": "Black Edge",
-          "image": "/images/tshirts/colors/1201WGD-bkedg.png"
+          "image": "/images/tshirts/colors/1201WGD-bkedg.webp"
         },
         {
           "code": "crm",
           "name": "Creme",
-          "image": "/images/tshirts/colors/1201WGD-crm.png"
+          "image": "/images/tshirts/colors/1201WGD-crm.webp"
         },
         {
           "code": "lgry",
           "name": "Light Grey",
-          "image": "/images/tshirts/colors/1201WGD-lgry.png"
+          "image": "/images/tshirts/colors/1201WGD-lgry.webp"
         },
         {
           "code": "nvy",
           "name": "Navy",
-          "image": "/images/tshirts/colors/1201WGD-nvy.png"
+          "image": "/images/tshirts/colors/1201WGD-nvy.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/tshirts/colors/1201WGD-wht.png"
+          "image": "/images/tshirts/colors/1201WGD-wht.webp"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "description": "7.5 oz S/S Garment Dye Mockneck T-Shirt",
       "brand": "LA Apparel",
       "casePack": 48,
-      "image": "/images/tshirts/1405GD.png",
+      "image": "/images/tshirts/1405GD.webp",
       "pricing": [
         {
           "sizes": "XS-XL",
@@ -74,17 +74,17 @@
         {
           "code": "bkedg",
           "name": "Black Edge",
-          "image": "/images/tshirts/colors/1405GD-bkedg.png"
+          "image": "/images/tshirts/colors/1405GD-bkedg.webp"
         },
         {
           "code": "lgry",
           "name": "Light Grey",
-          "image": "/images/tshirts/colors/1405GD-lgry.png"
+          "image": "/images/tshirts/colors/1405GD-lgry.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/tshirts/colors/1405GD-wht.png"
+          "image": "/images/tshirts/colors/1405GD-wht.webp"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "description": "Heavy Jersey Garment Dye T-Shirt with Binding",
       "brand": "LA Apparel",
       "casePack": 48,
-      "image": "/images/tshirts/1203GD.png",
+      "image": "/images/tshirts/1203GD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -118,37 +118,37 @@
         {
           "code": "atlngrn",
           "name": "Atlantic Green",
-          "image": "/images/tshirts/colors/1203GD-atlngrn.png"
+          "image": "/images/tshirts/colors/1203GD-atlngrn.webp"
         },
         {
           "code": "blk",
           "name": "Black",
-          "image": "/images/tshirts/colors/1203GD-blk.png"
+          "image": "/images/tshirts/colors/1203GD-blk.webp"
         },
         {
           "code": "cblu",
           "name": "Cobalt Blue",
-          "image": "/images/tshirts/colors/1203GD-cblu.png"
+          "image": "/images/tshirts/colors/1203GD-cblu.webp"
         },
         {
           "code": "dred",
           "name": "Dark Red",
-          "image": "/images/tshirts/colors/1203GD-dred.png"
+          "image": "/images/tshirts/colors/1203GD-dred.webp"
         },
         {
           "code": "nvy",
           "name": "Navy",
-          "image": "/images/tshirts/colors/1203GD-nvy.png"
+          "image": "/images/tshirts/colors/1203GD-nvy.webp"
         },
         {
           "code": "owht",
           "name": "Off White",
-          "image": "/images/tshirts/colors/1203GD-owht.png"
+          "image": "/images/tshirts/colors/1203GD-owht.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/tshirts/colors/1203GD-wht.png"
+          "image": "/images/tshirts/colors/1203GD-wht.webp"
         }
       ]
     },
@@ -157,7 +157,7 @@
       "description": "6.5 oz S/S Garment Dye T-Shirt",
       "brand": "LA Apparel",
       "casePack": 60,
-      "image": "/images/tshirts/1801GD.png",
+      "image": "/images/tshirts/1801GD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -188,227 +188,227 @@
         {
           "code": "arm",
           "name": "Army",
-          "image": "/images/tshirts/colors/1801GD-arm.png"
+          "image": "/images/tshirts/colors/1801GD-arm.webp"
         },
         {
           "code": "ash",
           "name": "Ash",
-          "image": "/images/tshirts/colors/1801GD-ash.png"
+          "image": "/images/tshirts/colors/1801GD-ash.webp"
         },
         {
           "code": "bge",
           "name": "Beige",
-          "image": "/images/tshirts/colors/1801GD-bge.png"
+          "image": "/images/tshirts/colors/1801GD-bge.webp"
         },
         {
           "code": "blk",
           "name": "Black",
-          "image": "/images/tshirts/colors/1801GD-blk.png"
+          "image": "/images/tshirts/colors/1801GD-blk.webp"
         },
         {
           "code": "bkedg",
           "name": "Black Edge",
-          "image": "/images/tshirts/colors/1801GD-bkedg.png"
+          "image": "/images/tshirts/colors/1801GD-bkedg.webp"
         },
         {
           "code": "blmn",
           "name": "Blue Moon",
-          "image": "/images/tshirts/colors/1801GD-blmn.png"
+          "image": "/images/tshirts/colors/1801GD-blmn.webp"
         },
         {
           "code": "bra",
           "name": "Brass",
-          "image": "/images/tshirts/colors/1801GD-bra.png"
+          "image": "/images/tshirts/colors/1801GD-bra.webp"
         },
         {
           "code": "chrcl",
           "name": "Charcoal ",
-          "image": "/images/tshirts/colors/1801GD-chrcl.png"
+          "image": "/images/tshirts/colors/1801GD-chrcl.webp"
         },
         {
           "code": "choc",
           "name": "Chocolate",
-          "image": "/images/tshirts/colors/1801GD-choc.png"
+          "image": "/images/tshirts/colors/1801GD-choc.webp"
         },
         {
           "code": "clve",
           "name": "Clove",
-          "image": "/images/tshirts/colors/1801GD-clve.png"
+          "image": "/images/tshirts/colors/1801GD-clve.webp"
         },
         {
           "code": "dred",
           "name": "Dark Red",
-          "image": "/images/tshirts/colors/1801GD-dred.png"
+          "image": "/images/tshirts/colors/1801GD-dred.webp"
         },
         {
           "code": "dlb",
           "name": "Dolphin Blue",
-          "image": "/images/tshirts/colors/1801GD-dlb.png"
+          "image": "/images/tshirts/colors/1801GD-dlb.webp"
         },
         {
           "code": "ivy",
           "name": "Ivy",
-          "image": "/images/tshirts/colors/1801GD-ivy.png"
+          "image": "/images/tshirts/colors/1801GD-ivy.webp"
         },
         {
           "code": "lbl",
           "name": "Light Blue",
-          "image": "/images/tshirts/colors/1801GD-lbl.png"
+          "image": "/images/tshirts/colors/1801GD-lbl.webp"
         },
         {
           "code": "lgy",
           "name": "Light Grey",
-          "image": "/images/tshirts/colors/1801GD-lgy.png"
+          "image": "/images/tshirts/colors/1801GD-lgy.webp"
         },
         {
           "code": "lpk",
           "name": "Light Pink",
-          "image": "/images/tshirts/colors/1801GD-lpk.png"
+          "image": "/images/tshirts/colors/1801GD-lpk.webp"
         },
         {
           "code": "lotus",
           "name": "Lotus",
-          "image": "/images/tshirts/colors/1801GD-lotus.png"
+          "image": "/images/tshirts/colors/1801GD-lotus.webp"
         },
         {
           "code": "mve",
           "name": "Mauve",
-          "image": "/images/tshirts/colors/1801GD-mve.png"
+          "image": "/images/tshirts/colors/1801GD-mve.webp"
         },
         {
           "code": "ptli",
           "name": "Patchouli",
-          "image": "/images/tshirts/colors/1801GD-ptli.png"
+          "image": "/images/tshirts/colors/1801GD-ptli.webp"
         },
         {
           "code": "pkcr",
           "name": "Pink Carnation",
-          "image": "/images/tshirts/colors/1801GD-pkcr.png"
+          "image": "/images/tshirts/colors/1801GD-pkcr.webp"
         },
         {
           "code": "pol",
           "name": "Pool",
-          "image": "/images/tshirts/colors/1801GD-pol.png"
+          "image": "/images/tshirts/colors/1801GD-pol.webp"
         },
         {
           "code": "rqtz",
           "name": "Rose Quartz",
-          "image": "/images/tshirts/colors/1801GD-rqtz.png"
+          "image": "/images/tshirts/colors/1801GD-rqtz.webp"
         },
         {
           "code": "sag",
           "name": "Sage",
-          "image": "/images/tshirts/colors/1801GD-sag.png"
+          "image": "/images/tshirts/colors/1801GD-sag.webp"
         },
         {
           "code": "seafm",
           "name": "Seafoam",
-          "image": "/images/tshirts/colors/1801GD-seafm.png"
+          "image": "/images/tshirts/colors/1801GD-seafm.webp"
         },
         {
           "code": "spyw",
           "name": "Spectra Yellow",
-          "image": "/images/tshirts/colors/1801GD-spyw.png"
+          "image": "/images/tshirts/colors/1801GD-spyw.webp"
         },
         {
           "code": "vblk",
           "name": "Vintage Black",
-          "image": "/images/tshirts/colors/1801GD-vblk.png"
+          "image": "/images/tshirts/colors/1801GD-vblk.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/tshirts/colors/1801GD-wht.png"
+          "image": "/images/tshirts/colors/1801GD-wht.webp"
         },
         {
           "code": "tom",
           "name": "Tomato",
-          "image": "/images/tshirts/colors/1801GD-tom.png"
+          "image": "/images/tshirts/colors/1801GD-tom.webp"
         },
         {
           "code": "fus",
           "name": "Fuchsia",
-          "image": "/images/tshirts/colors/1801GD-fus.png"
+          "image": "/images/tshirts/colors/1801GD-fus.webp"
         },
         {
           "code": "brorn",
           "name": "Bright Orange",
-          "image": "/images/tshirts/colors/1801GD-brorn.png"
+          "image": "/images/tshirts/colors/1801GD-brorn.webp"
         },
         {
           "code": "747corl",
           "name": "Coral",
-          "image": "/images/tshirts/colors/1801GD-747corl.png"
+          "image": "/images/tshirts/colors/1801GD-747corl.webp"
         },
         {
           "code": "gld",
           "name": "Gold",
-          "image": "/images/tshirts/colors/1801GD-gld.png"
+          "image": "/images/tshirts/colors/1801GD-gld.webp"
         },
         {
           "code": "pnk",
           "name": "Pink",
-          "image": "/images/tshirts/colors/1801GD-pnk.png"
+          "image": "/images/tshirts/colors/1801GD-pnk.webp"
         },
         {
           "code": "atlngrn",
           "name": "Atlantic Green",
-          "image": "/images/tshirts/colors/1801GD-atlngrn.png"
+          "image": "/images/tshirts/colors/1801GD-atlngrn.webp"
         },
         {
           "code": "dtea",
           "name": "Dark Teal",
-          "image": "/images/tshirts/colors/1801GD-dtea.png"
+          "image": "/images/tshirts/colors/1801GD-dtea.webp"
         },
         {
           "code": "cblu",
           "name": "Cobalt Blue",
-          "image": "/images/tshirts/colors/1801GD-cblu.png"
+          "image": "/images/tshirts/colors/1801GD-cblu.webp"
         },
         {
           "code": "clblu",
           "name": "Clear Blue",
-          "image": "/images/tshirts/colors/1801GD-clblu.png"
+          "image": "/images/tshirts/colors/1801GD-clblu.webp"
         },
         {
           "code": "nvy",
           "name": "Navy",
-          "image": "/images/tshirts/colors/1801GD-nvy.png"
+          "image": "/images/tshirts/colors/1801GD-nvy.webp"
         },
         {
           "code": "pur",
           "name": "Purple",
-          "image": "/images/tshirts/colors/1801GD-pur.png"
+          "image": "/images/tshirts/colors/1801GD-pur.webp"
         },
         {
           "code": "rub",
           "name": "Ruby",
-          "image": "/images/tshirts/colors/1801GD-rub.png"
+          "image": "/images/tshirts/colors/1801GD-rub.webp"
         },
         {
           "code": "cmnt",
           "name": "Cement",
-          "image": "/images/tshirts/colors/1801GD-cmnt.png"
+          "image": "/images/tshirts/colors/1801GD-cmnt.webp"
         },
         {
           "code": "owht",
           "name": "Off White",
-          "image": "/images/tshirts/colors/1801GD-owht.png"
+          "image": "/images/tshirts/colors/1801GD-owht.webp"
         },
         {
           "code": "crm",
           "name": "Creme",
-          "image": "/images/tshirts/colors/1801GD-crm.png"
+          "image": "/images/tshirts/colors/1801GD-crm.webp"
         },
         {
           "code": "dslv",
           "name": "Dark Silver",
-          "image": "/images/tshirts/colors/1801GD-dslv.png"
+          "image": "/images/tshirts/colors/1801GD-dslv.webp"
         },
         {
           "code": "mshrm",
           "name": "Mushroom",
-          "image": "/images/tshirts/colors/1801GD-mshrm.png"
+          "image": "/images/tshirts/colors/1801GD-mshrm.webp"
         }
       ]
     },
@@ -417,7 +417,7 @@
       "description": "6.5 oz S/S Oversized Garment Dye High Mockneck T-Shirt",
       "brand": "LA Apparel",
       "casePack": 60,
-      "image": "/images/tshirts/1825GD.png",
+      "image": "/images/tshirts/1825GD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -430,62 +430,62 @@
         {
           "code": "ash",
           "name": "Ash",
-          "image": "/images/tshirts/colors/1825GD-ash.png"
+          "image": "/images/tshirts/colors/1825GD-ash.webp"
         },
         {
           "code": "clgrn",
           "name": "Celery Green",
-          "image": "/images/tshirts/colors/1825GD-clgrn.png"
+          "image": "/images/tshirts/colors/1825GD-clgrn.webp"
         },
         {
           "code": "chr",
           "name": "Cherry Red",
-          "image": "/images/tshirts/colors/1825GD-chr.png"
+          "image": "/images/tshirts/colors/1825GD-chr.webp"
         },
         {
           "code": "choc",
           "name": "Chocolate",
-          "image": "/images/tshirts/colors/1825GD-choc.png"
+          "image": "/images/tshirts/colors/1825GD-choc.webp"
         },
         {
           "code": "crm",
           "name": "Creme",
-          "image": "/images/tshirts/colors/1825GD-crm.png"
+          "image": "/images/tshirts/colors/1825GD-crm.webp"
         },
         {
           "code": "fal",
           "name": "Falcon",
-          "image": "/images/tshirts/colors/1825GD-fal.png"
+          "image": "/images/tshirts/colors/1825GD-fal.webp"
         },
         {
           "code": "oat",
           "name": "Oatmeal",
-          "image": "/images/tshirts/colors/1825GD-oat.png"
+          "image": "/images/tshirts/colors/1825GD-oat.webp"
         },
         {
           "code": "oblk",
           "name": "Off Black",
-          "image": "/images/tshirts/colors/1825GD-oblk.png"
+          "image": "/images/tshirts/colors/1825GD-oblk.webp"
         },
         {
           "code": "rub",
           "name": "Ruby",
-          "image": "/images/tshirts/colors/1825GD-rub.png"
+          "image": "/images/tshirts/colors/1825GD-rub.webp"
         },
         {
           "code": "snd",
           "name": "Sand",
-          "image": "/images/tshirts/colors/1825GD-snd.png"
+          "image": "/images/tshirts/colors/1825GD-snd.webp"
         },
         {
           "code": "slvm",
           "name": "Silver Mist",
-          "image": "/images/tshirts/colors/1825GD-slvm.png"
+          "image": "/images/tshirts/colors/1825GD-slvm.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/tshirts/colors/1825GD-wht.png"
+          "image": "/images/tshirts/colors/1825GD-wht.webp"
         }
       ]
     },
@@ -494,7 +494,7 @@
       "description": "6.5 oz Sleeveless Tee",
       "brand": "LA Apparel",
       "casePack": 72,
-      "image": "/images/tshirts/1865GD.png",
+      "image": "/images/tshirts/1865GD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -513,27 +513,27 @@
         {
           "code": "bkedg",
           "name": "Black Edge",
-          "image": "/images/tshirts/colors/1865GD-bkedg.png"
+          "image": "/images/tshirts/colors/1865GD-bkedg.webp"
         },
         {
           "code": "dlb",
           "name": "Dolphin Blue",
-          "image": "/images/tshirts/colors/1865GD-dlb.png"
+          "image": "/images/tshirts/colors/1865GD-dlb.webp"
         },
         {
           "code": "owht",
           "name": "Off White",
-          "image": "/images/tshirts/colors/1865GD-owht.png"
+          "image": "/images/tshirts/colors/1865GD-owht.webp"
         },
         {
           "code": "vblk",
           "name": "Vintage Black",
-          "image": "/images/tshirts/colors/1865GD-vblk.png"
+          "image": "/images/tshirts/colors/1865GD-vblk.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/tshirts/colors/1865GD-wht.png"
+          "image": "/images/tshirts/colors/1865GD-wht.webp"
         }
       ]
     }

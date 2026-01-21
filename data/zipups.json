@@ -7,7 +7,7 @@
       "description": "Mid-Weight Crop Zip Hoodie",
       "brand": "LA Apparel",
       "casePack": 24,
-      "image": "/images/zipups/MWF10.png",
+      "image": "/images/zipups/MWF10.webp",
       "pricing": [
         {
           "sizes": "XS-XL",
@@ -26,22 +26,22 @@
         {
           "code": "blk",
           "name": "Black",
-          "image": "/images/zipups/colors/MWF10-blk.png"
+          "image": "/images/zipups/colors/MWF10-blk.webp"
         },
         {
           "code": "crm",
           "name": "Creme",
-          "image": "/images/zipups/colors/MWF10-crm.png"
+          "image": "/images/zipups/colors/MWF10-crm.webp"
         },
         {
           "code": "dlb",
           "name": "Dolphin Blue",
-          "image": "/images/zipups/colors/MWF10-dlb.png"
+          "image": "/images/zipups/colors/MWF10-dlb.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/zipups/colors/MWF10-wht.png"
+          "image": "/images/zipups/colors/MWF10-wht.webp"
         }
       ]
     },
@@ -50,7 +50,7 @@
       "description": "Cotton Poplin Zip-Up Hooded Jacket",
       "brand": "LA Apparel",
       "casePack": 24,
-      "image": "/images/zipups/RJC410GD.png",
+      "image": "/images/zipups/RJC410GD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -63,17 +63,17 @@
         {
           "code": "arm",
           "name": "Army",
-          "image": "/images/zipups/colors/RJC410GD-arm.png"
+          "image": "/images/zipups/colors/RJC410GD-arm.webp"
         },
         {
           "code": "dlb",
           "name": "Dolphin Blue",
-          "image": "/images/zipups/colors/RJC410GD-dlb.png"
+          "image": "/images/zipups/colors/RJC410GD-dlb.webp"
         },
         {
           "code": "wht",
           "name": "White",
-          "image": "/images/zipups/colors/RJC410GD-wht.png"
+          "image": "/images/zipups/colors/RJC410GD-wht.webp"
         }
       ]
     },
@@ -82,7 +82,7 @@
       "description": "Thermal Lined Crop Zip Hoodie",
       "brand": "LA Apparel",
       "casePack": 18,
-      "image": "/images/zipups/ALP10GD.png",
+      "image": "/images/zipups/ALP10GD.webp",
       "pricing": [
         {
           "sizes": "S-XL",
@@ -95,22 +95,22 @@
         {
           "code": "bkedg",
           "name": "Black Edge",
-          "image": "/images/zipups/colors/ALP10GD-bkedg.png"
+          "image": "/images/zipups/colors/ALP10GD-bkedg.webp"
         },
         {
           "code": "crm",
           "name": "Creme",
-          "image": "/images/zipups/colors/ALP10GD-crm.png"
+          "image": "/images/zipups/colors/ALP10GD-crm.webp"
         },
         {
           "code": "dkcho",
           "name": "Dark Chocolate",
-          "image": "/images/zipups/colors/ALP10GD-dkcho.png"
+          "image": "/images/zipups/colors/ALP10GD-dkcho.webp"
         },
         {
           "code": "nvy",
           "name": "Navy",
-          "image": "/images/zipups/colors/ALP10GD-nvy.png"
+          "image": "/images/zipups/colors/ALP10GD-nvy.webp"
         }
       ]
     }
