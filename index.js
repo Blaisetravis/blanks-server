@@ -24,10 +24,10 @@ const tshirts = require('./data/tshirts.json');
 // Get all products
 app.get('/api/products', (req, res) => {
   res.json({
-    bottoms,
-    hoodies,
     zipups,
-    tshirts
+    hoodies,
+    tshirts,
+    bottoms
   });
 });
 
